@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">棋牌牛牛</string>
+    <string name="Title">棋牌牛牛</string>
+    <string name="nn_sel_game_type">请选择游戏类型：\n（微信内置游戏请选择：微信）</string>
+    <string name="nn_sel_type">请选择必抢数值</string>
+    <string name="nn_remark">注：打开以上功能，系统会随机自动匹配，可多开！</string>
+    <string name="service_name">棋牌牛牛</string>
+    <string name="floating">获取牛牛</string>
+    <string name="float_btReturn">返回设置</string>
+    <string name="accessibility_description">请启动棋牌牛牛服务！</string>
+</resources>
